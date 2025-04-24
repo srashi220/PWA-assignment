@@ -47,9 +47,8 @@ Steps to configure manifest.json
 
 
 #Here is Output 
-(src/assets/output_screenshot/output1.png)
+(assets/output_screenshot/output1.png)
 (assets/output_screenshot/output2.png)
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
